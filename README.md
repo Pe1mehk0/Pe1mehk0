@@ -1,5 +1,7 @@
 # About Me:
-Current project Vital
+Keep pushing, keep learning, keep creating.
+
+Current project: Vital
 
 
 # 💻 Tech Stack:
